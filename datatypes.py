@@ -1,4 +1,3 @@
-""""
 first_name = "ada"
 last_name = "lovelace"
 full_name = first_name + " " + last_name
@@ -19,4 +18,3 @@ print(18-10)
 print(4*2)
 print(int(8/1))
 print(2**3)
-"""
